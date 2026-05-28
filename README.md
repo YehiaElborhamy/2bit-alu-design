@@ -146,7 +146,7 @@ This project successfully demonstrates the design and implementation of a functi
 
 ---
 
-# 👨‍💻 Author
+# 👨‍💻 Project Developer
 
 ### Yehia Elborhamy
 
