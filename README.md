@@ -1,10 +1,7 @@
 # 2-Bit ALU Using Logisim & Digital Logic Design
-Smart implementation of a **2-Bit Arithmetic Logic Unit (ALU)** using **Logisim**, logic gates, multiplexers, and hardware IC components.
+2-Bit Arithmetic Logic Unit (ALU)** using **Logisim**, logic gates, multiplexers, and hardware IC components.
 
 ---
-
-# Room Security Style Overview
-
 ## 🚀 Project Highlights
 
 * Designed a fully functional **2-Bit ALU**
